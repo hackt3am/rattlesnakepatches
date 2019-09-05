@@ -5,7 +5,8 @@ build config for rattlesnake os:
   patches = [
   "0001-opengapps-walleye.patch",
   "0002-global-internet-permission-toggle.patch",
-  "0003-global-sensors-permission-toggle.patch"
+  "0003-global-sensors-permission-toggle.patch",
+  "0004-enable-doze.patch"
 ]
 
 [[custom-scripts]]
