@@ -317,3 +317,4 @@ index 707b9f7b..cbde987a 100644
          PLATFORM_PERMISSION_GROUPS = new ArrayMap<>();
          int numPlatformPermissions = PLATFORM_PERMISSIONS.size();
          for (int i = 0; i < numPlatformPermissions; i++) {
+
